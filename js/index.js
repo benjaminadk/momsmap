@@ -283,7 +283,7 @@ var directionsService = new google.maps.DirectionsService;
   //BASED ON A QUERY TO THE FUSION DATA AND DEFINING COORDINATES
     query: {
       select: "Location",
-      from: '1h7ZlgimMOBfutZ2dLspShafWRnNE2TlNmQgVPb1T'
+      from: '<fusiontableid/key>'
     },
           styles: [{
   markerOptions: {
